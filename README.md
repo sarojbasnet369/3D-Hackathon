@@ -1,1 +1,1 @@
-# 3D-Hackathon
+# 3D Design Hackathon
